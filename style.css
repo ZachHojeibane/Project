@@ -1,0 +1,80 @@
+ul {list-style: none;
+	background-color: whitesmoke;
+	text-align: center;
+
+
+}
+
+li {display: inline-block;
+	margin-right: 10px;
+	color: black;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 1.5em;
+	text-align: center;
+
+}
+
+/* Here is my Nav bar. Pain point - getting it to be horizontal!
+*/ 
+
+h1 {
+	color: whitesmoke;
+	font-family: 'Kanit', sans-serif;
+	font-size: 5em;
+	text-align: center;
+}
+
+
+body {background-color: darkgoldenrod;
+}
+
+h2 {
+	color: black;
+	background-color: whitesmoke;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.statement{ 
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	background-color: lightcyan;
+	padding: 10px;
+
+}
+
+
+figure { background-color:black;
+	padding: 10px; 
+	width: 770px;
+
+}
+
+figcaption {
+	justify-content:center; 
+	color: slategrey;
+	font-family: 'Rajdhani', sans-serif;
+	text-align: center;
+	font-size: 1.5em;
+
+
+}
+
+div{
+	display: flex;
+	justify-content: center;
+}
+
+p {
+	color: black;
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 30px;
+	background-color: whitesmoke;
+	padding: 10%;
+}
+
+section {
+	display: block;
+}
+
